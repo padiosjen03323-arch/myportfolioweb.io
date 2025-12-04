@@ -30,3 +30,47 @@ It serves as a digital portfolio for potential employers, collaborators, or clie
 
 ## 📂 Project Structure  
 
+/ (root)
+│── index.html
+│── (other html/pages as needed)
+│── assets/ ← images, icons, etc.
+│── README.md
+
+yaml
+Copy code
+
+*(You can expand this structure if you add more pages or assets.)*
+
+---
+
+## 🎯 How to Use / View Locally  
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/padiosjen03323-arch/myportfolioweb.io.git
+Open index.html in your browser
+
+(Optional) Modify content — edit HTML, update images in assets/, adjust styles
+
+✍️ What You Should Do (Customize)
+Replace generic text (name, bio, project descriptions) with your real info
+
+Add real screenshots or thumbnails instead of emoji placeholders for projects
+
+(Optional) Add more sections: e.g. “Experience”, “Education”, “Blog / Articles”, etc.
+
+(Optional) If you want contact form functionality, integrate a backend or service
+
+📬 Contact / Connect
+If you want to reach out — you can contact me via:
+
+Email: your.email@example.com
+
+GitHub: https://github.com/padiosjen03323-arch
+
+📄 License
+This project is open-source and available under the MIT License. Feel free to fork or reuse.
+
+✅ Acknowledgements
+Thanks for checking out my portfolio.
+If you find it useful or want to give feedback — feel free to star the repo or send me a message!
