@@ -64,7 +64,7 @@ Add real screenshots or thumbnails instead of emoji placeholders for projects
 📬 Contact / Connect
 If you want to reach out — you can contact me via:
 
-Email: your.email@example.com
+Email: nene@gmail.com
 
 GitHub: https://github.com/padiosjen03323-arch
 RUN: https://padiosjen03323-arch.github.io/myportfolioweb.io/
