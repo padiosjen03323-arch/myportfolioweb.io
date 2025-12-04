@@ -46,7 +46,7 @@ root-folder/
 
 Clone the repository:
 
-git clone https://github.com/padiosjen03323-arch/your-portfolio.git
+git clone https://github.com/padiosjen03323-arch/myportfolioweb.git
 
 
 Open the project folder.
